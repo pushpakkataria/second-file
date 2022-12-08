@@ -1,0 +1,142 @@
+body{
+    background-image: url(liv.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+*{
+    box-sizing: border-box;
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%
+}
+.own{
+    font-size: 70px;
+    text-align: center;
+    color: darkcyan;
+    text-decoration: underline;
+    font-style: oblique;
+    text-shadow: 2px 1px 1px black;
+    margin-top: -70px;
+    font-weight: 1000;
+}
+section .logo{
+    display: flex;
+    justify-content: space-around;
+    font-style: initial;
+    clear: left;
+}
+section .logo1{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    clear: both;
+}
+.dep1{ 
+    font-size: 35px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: yellow;
+    margin-top: -7%;
+
+}
+.mac{ 
+    font-size: 20px;
+    padding-left: 1300px;
+    color: darkturquoise;
+    text-transform: capitalize;
+
+}
+.dep{
+    font-size: 35px;
+    text-decoration-line: underline;
+    color: yellow;
+    margin-top: ;
+
+}
+.text{
+    padding-left: 1350px;
+    margin-top: -5%;
+    margin-left: -15%;
+}
+section .login{
+
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 1px;
+    background:darkseagreen;
+    color: black;
+    font-weight: 550;
+    font-size: 50px;
+    margin-right: 20px;
+    margin-left: 500px; 
+    margin-top: 100px;
+    box-shadow: 6px 3px 10px black;
+}
+section .rprt{
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 1px;
+    background:darksalmon;
+    color: black;
+    font-weight: 550;
+    font-size: 50px;
+    box-shadow: 6px 3px 10px black;
+}
+.com{
+    font-size: 25px;
+    color: skyblue;
+}
+section .h4{
+    color: darkcyan;
+    font-size: 45px;
+    font-weight: 600;
+    font-style: oblique;
+    margin-left: 370px;
+    text-decoration: underline;
+    text-shadow: 2px 1px 1px black;
+}
+.add{
+    font-size: 50px;
+    color:darkcyan;
+text-decoration: underline;
+    font-style:italic ;
+    text-shadow: 2px 3px 1px black;
+    font-weight: 700;
+}
+.Add{
+    font-weight: 1000;
+    font-size: 25px;
+    color: black;
+    text-shadow: 1px 1px 1px black;
+}
+.own1{
+    font-size: 50px;
+    color: darkcyan;
+    margin-left: 480px;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: 600;
+    text-shadow: 2px 1px 1px black;
+}
+section .prob{
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 1px;
+    background:darksalmon;
+    color: black;
+    font-weight: 1000;
+    font-size: 50px;
+    box-shadow: 6px 3px 10px black;   
+    margin-left: 610px;
+}
+.livp{
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 1px;
+    background:darkseagreen;
+    color: black;
+    font-weight: 1000;
+    font-size: 50px;
+    box-shadow: 6px 3px 10px black;   
+    margin-left: 20px;   
+}
